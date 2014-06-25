@@ -1,0 +1,63 @@
+Developed by:
+
+Onur OZUDURU
+
+Visit my github page: https://github.com/onurozuduru
+Follow me on twitter: https://twitter.com/OnurOzuduru
+Or send me a mail: onur.ozuduru { at } gmail.com
+
+Licence: This work is licensed under the Creative Commons Attribution 4.0 International License.
+To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+
+Creature Images are created with using the following vector set:
+
+Name: The Funny Vector Monsters Kit	by: designer-daily
+License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/us/
+Source: http://www.designer-daily.com/freebie-the-vector-monsters-kit-37053
+
+
+Button Icons are created with using the following icon set:
+
+Name: Smallicons Icon Set
+by: Nick Frost http://dribbble.com/gimpo/
+and 
+Greg Lapin http://dribbble.com/loonyvoyager
+License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/us/
+Source: http://www.smashingmagazine.com/2013/11/29/freebie-smallicons-icon-set/
+
+
+Button Font is:
+
+Name: SketchSlab Webfont	by: Tony Thomas
+License: Free License http://medialoot.com/main/license/
+Source: http://medialoot.com/item/sketchslab-webfont/
+
+
+Cannon Sound is:
+
+Name: Laser Cannon		by: Mike Koenig
+License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/us/
+Source: http://soundbible.com/1771-Laser-Cannon.html
+
+
+Cannon Image Icon is:
+
+by: Freepik http://www.freepik.com/
+License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/us/
+Source: http://www.flaticon.com/free-icon/cannon_1504
+
+
+Default Target Cursor Icon is from the package:
+
+Name: Iconic		by: P.J. Onori
+License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/us/
+Source: http://somerandomdude.com/work/iconic/
+
+
+Green and Red Target Cursor Icons are from the package:
+
+Name: Ardentryst-GUICursorsArrowsIconsMarkers
+by: Jordan Trudgett http://jordan.trudgett.com/
+License: CC BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/us/
+Source: http://opengameart.org/content/cursors-arrows-map-markers-for-ardentryst-by-jordan-trudgett
