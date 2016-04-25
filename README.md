@@ -13,8 +13,9 @@ I hope that it is helpful for your own homeworks or projects.
 Please put a link on somewhere to my github page, if you use the codes with no changes.
 
 Follow me on, 
-github: https://github.com/onurozuduru
-twitter: https://twitter.com/OnurOzuduru
+
+* github: [onurozuduru](https://github.com/onurozuduru)
+* twitter: [@OnurOzuduru](https://twitter.com/OnurOzuduru)
 
 
 You can see project description which is here,
